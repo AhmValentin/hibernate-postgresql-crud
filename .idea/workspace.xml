@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="723e0875-ccf6-44e1-96eb-c542922c3947" name="Changes" comment="add gitignore">
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/HibernateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MainApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dao/UserDaoImpl$DaoException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dao/UserDaoImpl$DaoException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dao/UserDaoImpl$DuplicateEmailException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dao/UserDaoImpl$DuplicateEmailException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dao/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dao/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/UserDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UserDaoTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="106432a4c8a28090a46a116007d10aba44009059" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AhmValentin&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AhmValentin/hibernate-postgresql-crud.git&quot;,
+    &quot;accountId&quot;: &quot;5944ff0c-2aa3-49c6-955a-f74205a5b198&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2viz2nImRsbeAS7xH6LMRM68rrf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MainApp.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserDaoTest.delete_ShouldRemoveUser.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.UserDaoTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserDaoTest.findById_ShouldReturnUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserDaoTest.findById_ShouldThrowOnInvalidId.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserDaoTest.save_ShouldPersistUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserDaoTest.update_ShouldThrowOnNullUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.java in hibernate-postgresql-crud-demo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.java in hibernate-postgresql-crud.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Valentin/Desktop/cppl/untitled3/src/isPowerOfTwo.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Valentin\Desktop\cppl\hibernate-postgresql-crud\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainApp">
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainApp" />
+      <module name="hibernate-postgresql-crud-demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.findById_ShouldReturnUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hibernate-postgresql-crud" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserDaoTest" />
+      <option name="METHOD_NAME" value="findById_ShouldReturnUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.findById_ShouldThrowOnInvalidId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hibernate-postgresql-crud" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserDaoTest" />
+      <option name="METHOD_NAME" value="findById_ShouldThrowOnInvalidId" />
+      <option name="TEST_OBJECT" value="method" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.update_ShouldThrowOnNullUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hibernate-postgresql-crud" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserDaoTest" />
+      <option name="METHOD_NAME" value="update_ShouldThrowOnNullUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in hibernate-postgresql-crud-demo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hibernate-postgresql-crud-demo" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp" />
+        <item itemvalue="JUnit.java in hibernate-postgresql-crud-demo" />
+        <item itemvalue="JUnit.UserDaoTest.update_ShouldThrowOnNullUser" />
+        <item itemvalue="JUnit.UserDaoTest.findById_ShouldThrowOnInvalidId" />
+        <item itemvalue="JUnit.UserDaoTest.findById_ShouldReturnUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="723e0875-ccf6-44e1-96eb-c542922c3947" name="Changes" comment="" />
+      <created>1744642477332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744642477332</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add gitignore">
+      <option name="closed" value="true" />
+      <created>1744966092822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744966092823</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add gitignore" />
+    <MESSAGE value="Delete .idea directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete .idea directory" />
+    <option name="LAST_CHUNK_COMMIT_MESSAGE" value="Delete .idea directory" />
+  </component>
+</project>

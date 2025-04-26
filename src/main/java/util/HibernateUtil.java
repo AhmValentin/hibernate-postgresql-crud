@@ -11,7 +11,7 @@ public class HibernateUtil {
     static {
         try {
             StandardServiceRegistry registry = new StandardServiceRegistryBuilder()
-                    .configure("hibernate.cfg.xml") // Ваш конфиг
+                    .configure("hibernate.cfg.xml")
                     .build();
 
             sessionFactory = new MetadataSources(registry)
